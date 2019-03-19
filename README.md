@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+何を記載すれば良いやら、とりあえず、使い方を覚えよう。
+
